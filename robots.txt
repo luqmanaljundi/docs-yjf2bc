@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-rnkexx.rtplido88akses.com/sitemap.xml
